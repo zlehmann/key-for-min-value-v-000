@@ -9,5 +9,5 @@ def key_for_min_value(name_hash)
       lowest_value = value
       lowest_key = key
     end
-    return lowest_key
+  return lowest_key
 end
